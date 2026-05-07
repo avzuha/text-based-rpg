@@ -1,6 +1,6 @@
 # text-based-rpg
 A simple text-based RPG written in **C++**.  
-Players can choose between **Warrior** or **Mage**, battle enemies, use items, and experience random events while leveling up through multiple rounds.
+Players can choose between **Warrior** or **Mage**, battle enemies, use items, and experience random events while leveling up through multiple rounds. This project was made for Semester 2 Project Based Learning for the subject Software Development Fundamentals II.
 
 ---
 
